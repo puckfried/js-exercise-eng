@@ -17,4 +17,4 @@
 - `Hide` --> on clicking, the entire box should disappear
 
 - The last button was not covered in the presentation, try googling them or ask me :-)
-- `Print` --> the text from the input field should be displayed below. (Tipp: You can access the value of the input field using the property .value, e.g., `myInput.value` )
+    - `Print` --> the text from the input field should be displayed below. (Tipp: You can access the value of the input field using the property .value, e.g., `myInput.value` )
